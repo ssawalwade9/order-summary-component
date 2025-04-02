@@ -13,11 +13,13 @@
 *{
     margin: 0;
     padding: 0;
+    box-sizing: border-box;
 }
   
   .card{
     width: 450px;
     background-color: white;
+    border-radius: 20px;
   }
   body{
     background-image: url(images/pattern-background-desktop.svg);
@@ -33,4 +35,7 @@
   }
   .container{
     padding: 30px;
+  }
+  .order-description{
+    line-height: 25px;
   }
