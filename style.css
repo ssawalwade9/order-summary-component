@@ -22,6 +22,7 @@
     background-color: white;
     border-radius: 20px;
     overflow: hidden;
+    margin: 50px auto;
   }
   body{
     background-image: url(images/pattern-background-desktop.svg);
