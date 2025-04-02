@@ -72,3 +72,6 @@
     cursor: pointer;
     border-radius: 12px;
 }
+.cancel-btn:hover{
+    color: black;
+}
