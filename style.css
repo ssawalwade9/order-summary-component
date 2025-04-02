@@ -61,3 +61,14 @@
 .proceed-btn:hover{
     opacity: 0.8;
 }
+.cancel-btn{
+    background-color: white;
+    color: var(--Desaturated-blue);
+    border: none;
+    margin-top: 22px;
+    width: 100%;
+    font-weight: 700;
+    font-size: 0.9rem;
+    cursor: pointer;
+    border-radius: 12px;
+}
