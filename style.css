@@ -39,6 +39,11 @@
   }
   .container{
     padding: 30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    font-size: 18px;
   }
   .container>*{
     margin: 13px 0px;
