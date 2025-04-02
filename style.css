@@ -58,3 +58,6 @@
     font-size: 0.9rem;
     border-radius: 12px;
 }
+.proceed-btn:hover{
+    opacity: 0.8;
+}
