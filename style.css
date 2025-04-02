@@ -98,3 +98,7 @@
 .plan-container strong{
     color: var(--Dark-blue);
 }
+.plan-description{
+    line-height: 20px;
+    margin-right: 75px;
+}
