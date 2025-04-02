@@ -70,3 +70,13 @@
 .cancel-btn:hover{
     color: black;
 }
+.plan-container{
+    font-size: 16px;
+    background-color: var(--Very-pale-blue);
+    padding: 25px;
+    border-radius: 12px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
